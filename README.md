@@ -1,7 +1,8 @@
 # 🖐Welcome to My Github!!🖐
 
 ## My Introduce📗
-- @98Haeng
+- My github name is @98Haeng. I'm major in Department of Management Information System in Myongji University.
+
 
 ## Interest and Study
 - Data Analysis
@@ -10,7 +11,7 @@
 - Recommend System
 
 ## Major
-- Management Information System in Myongji University (2018.03~)
+- Department of Management Information System in Myongji University in Korea (2018.03~)
 
 ## Experience
 - Unity Game Develop
