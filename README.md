@@ -9,7 +9,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="mailto:yunjuan18@gmail.com" target="_blank">
+<a href="mailto:oneman0922@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/oneman0922@gmail.com-97eb91?style=for-the-badge&logo=Gmail&logoColor=black"/>
 </a>
 
