@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="mailto:oneman0922@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/oneman0922@gmail.com-97eb91?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
-<a href="https://velog.io/@oneman98"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
+<a href="https://velog.io/@oneman98"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@oneman98"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYun-ju-an&count_bg=%23B0EC82&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
