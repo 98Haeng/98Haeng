@@ -1,14 +1,27 @@
-- 👋 Hi, I’m @98Haeng
-- 👀 I’m interested in Data Analysis, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Managenment Information System, Convergence Software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🖐Welcome to My Github!!🖐
 
-<!---
-98Haeng/98Haeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Introduce📗
+- @98Haeng
 
+## Interest and Study
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Recommend System
+
+## Major
+- Management Information System in Myongji University (2018.03~)
+
+## Experience
+- Unity Game Develop
+- Web FrontEnd Develop
+- Data Analysis
+- Recommend System
+- Deep Learning
+- Machine Learning
+
+
+### My Mail and Site
 <a href="mailto:oneman0922@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/oneman0922@gmail.com-97eb91?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 <a href="https://velog.io/@oneman98"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@oneman98"/></a>
