@@ -1,7 +1,8 @@
 # 🖐Welcome to My Github!!🖐
 
 ## My Introduce📗
-- My github name is @98Haeng. I'm major in Department of Management Information System in Myongji University.
+- My github name is @98Haeng.
+- Bachelor of Department of Management Information System in Myongji University (2018~2024)
 
 
 ## Interest and Study
@@ -9,6 +10,8 @@
 - Machine Learning
 - Deep Learning
 - Recommend System
+- Large Language Model
+- AWS Bedrock
 
 ## Major
 - Department of Management Information System in Myongji University in Korea (2018.03~)
@@ -20,6 +23,8 @@
 - Recommend System
 - Deep Learning
 - Machine Learning
+- Large Language Model Develop
+- Chatbot Develop
 
 
 ### My Mail and Site
