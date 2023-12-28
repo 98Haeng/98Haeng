@@ -2,7 +2,7 @@
 
 ## My Introduce📗
 - My github name is @98Haeng.
-- Bachelor of Department of Management Information System in Myongji University (2018~2024)
+- Bachelor of Department of Management Information System in Myongji University
 
 
 ## Interest and Study
@@ -14,7 +14,7 @@
 - AWS Bedrock
 
 ## Major
-- Department of Management Information System in Myongji University in Korea (2018.03~)
+- Department of Management Information System in Myongji University in Korea (2018.03~2024.02)
 
 ## Experience
 - Unity Game Develop
