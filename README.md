@@ -3,7 +3,7 @@
 ## My Introduce📗
 - My github name is @98Haeng.
 - Bachelor of Department of Management Information System in Myongji University
-
+- Since 2024, I started my career as an AI developer.
 
 ## Interest and Study
 - Data Analysis
