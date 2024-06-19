@@ -25,6 +25,8 @@
 - Machine Learning
 - Large Language Model Develop
 - Chatbot Develop
+- Langchain
+- YOLO (by Ultralytics)
 
 
 ### My Mail and Site
@@ -44,7 +46,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
-![Ultralytics](https://img.shields.io/badge/Ultralytics-00AADD?style=for-the-badge&logo=Ultralytics&logoColor=white)
+<img src="https://img.shields.io/badge/Ultralytics-00AADD?style=for-the-badge&logo=Ultralytics&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Langchain-1E90FF?style=for-the-badge&logo=Langchain&logoColor=white"/></a>
+
 
 🎮 Game Develop
 
