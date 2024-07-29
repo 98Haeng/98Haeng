@@ -6,10 +6,10 @@
 - Since 2024, I started my career as an AI developer.
 
 ## Interest and Study
-- Data Analysis
+- Computational Social Science
 - Machine Learning
 - Deep Learning
-- Large Language Model
+- Natural Language Preprocessing
 - Graph Mining
 
 ## Major
