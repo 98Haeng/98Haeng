@@ -9,9 +9,8 @@
 - Data Analysis
 - Machine Learning
 - Deep Learning
-- Recommend System
 - Large Language Model
-- AWS Bedrock
+- Graph Mining
 
 ## Major
 - Department of Management Information System in Myongji University in Korea (2018.03~2024.02)
@@ -26,6 +25,7 @@
 - Large Language Model Develop
 - Chatbot Develop
 - Langchain
+- RAG (using AWS Bedrock)
 - YOLO (by Ultralytics)
 
 
