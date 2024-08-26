@@ -7,8 +7,8 @@
 
 ## Interest and Study
 - Computational Social Science
-- Machine Learning
-- Deep Learning
+- Artificial Intelligence
+- Large Language Model
 - Natural Language Preprocessing
 - Graph Mining
 
