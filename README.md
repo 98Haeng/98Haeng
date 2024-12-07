@@ -4,7 +4,7 @@
 - My github name is @98Haeng.
 - Bachelor of Department of Management Information System in Myongji University
 - Since 2024, I started my career as an AI developer.
-- Since 2025, I will start my master's program.
+- Since 2025, I will start my master's program in Hanyang University (Major : Data Science)
 
 ## Interest and Study
 - Computational Social Science
