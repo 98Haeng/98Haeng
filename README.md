@@ -3,18 +3,18 @@
 ## My Introduce📗
 - My github name is @98Haeng.
 - Bachelor of Department of Management Information System in Myongji University
-- Since 2024, I started my career as an AI developer.
-- Since 2025, I will start my master's program in Data Mining and Algorithm Lab in Hanyang University (Major : Data Science)
+- I worked in the field as an AI developer in 2024.
+- Since 2025, I will start my master's program in Data Mining and Algorithm Lab in Hanyang University.
 
 ## Interest and Study
 - Computational Social Science
 - Large Language Model
-- Natural Language Preprocessing
+- Recommender System
 - Graph Neural Network
 
 ## Major
 - Bachelor : Department of Management Information System in Myongji University (2018.03~2024.02)
-
+- Master : Department of Data Science in Hanyang University (2025.03~)
 ## Experience
 - Unity Game Develop
 - Web FrontEnd Develop
