@@ -15,19 +15,6 @@
 ## Major
 - Bachelor : Department of Management Information System in Myongji University (2018.03~2024.02)
 - Master : Department of Data Science in Hanyang University (2025.03~)
-## Experience
-- Unity Game Develop
-- Web FrontEnd Develop
-- Data Analysis
-- Recommend System
-- Deep Learning
-- Machine Learning
-- Large Language Model Develop
-- Chatbot Develop
-- Langchain
-- RAG (using AWS Bedrock)
-- YOLO (by Ultralytics)
-
 
 ### My Mail and Site
 <a href="mailto:oneman0922@gmail.com" target="_blank">
@@ -48,7 +35,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ultralytics-00AADD?style=for-the-badge&logo=Ultralytics&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Langchain-1E90FF?style=for-the-badge&logo=Langchain&logoColor=white"/></a>
-
 
 🎮 Game Develop
 
