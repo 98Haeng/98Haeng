@@ -54,3 +54,5 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneman0922)](https://solved.ac/oneman0922/)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oneman98)](https://velog.io/@oneman98)
