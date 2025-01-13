@@ -4,7 +4,7 @@
 - My github name is @98Haeng.
 - Bachelor of Department of Management Information System in Myongji University
 - I worked in the field as an AI developer in 2024.
-- Since 2025, I will start my master's program in Data Mining and Algorithm Lab in Hanyang University.
+- Since 2025, I will start my master's program in Data Mining and Algorithm Lab in Hanyang University. (https://sites.google.com/view/hyudatalab/home)
 
 ## Interest and Study
 - Computational Social Science
