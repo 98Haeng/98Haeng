@@ -56,3 +56,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneman0922)](https://solved.ac/oneman0922/)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oneman98)](https://velog.io/@oneman98)
+
+![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v1?theme=blue&name=Shinhaneg%20Lee&job=Master%20Student&company=Hanyang%20University&address=Seoul%2C%20Korea&about=I'm%20Researching%20about%20SRS&email=oneman0922%40gmail.com&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EC%258B%25A0%25ED%2596%2589-%25EC%259D%25B4-b098b9271%2F)
